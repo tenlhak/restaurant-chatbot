@@ -37,14 +37,6 @@ RestroBot is not just another chatbot – it's your restaurant's digital concier
 - **Smart Integration**: Connects directly with your reservation system
 - **Data Insights**: Provides valuable analytics on customer preferences
 
-## 🎯 Real-World Impact
-
-Restaurants using RestroBot have reported:
-- 60% reduction in phone call volume
-- 45% increase in online reservations
-- 30% decrease in no-shows
-- 25% improvement in staff efficiency
-- 90% customer satisfaction with booking experience
 
 ## 🔮 Built for the Future
 
