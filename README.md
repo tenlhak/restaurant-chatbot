@@ -233,8 +233,8 @@ A: Ensure you've installed all dependencies: `pip install -r requirements.txt`
 
 Got questions? Found a bug? Reach out:
 - Create an issue
-- Email: your.email@example.com
-- Twitter: @yourusername
+- Email: tenlhak98@gmail.com
+
 
 ## 🚀 Future Plans
 
