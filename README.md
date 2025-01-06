@@ -94,7 +94,7 @@ Before diving in, make sure you have:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/restaurant-chatbot.git
+git clone https://github.com/tenlhak/restaurant-chatbot.git
 cd restaurant-chatbot
 ```
 
